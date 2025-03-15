@@ -17,9 +17,15 @@ This project is a simple and interactive tournament bracket generator that allow
 4. Click on a team's button to **mark them as the winner** of a match.
 5. Winners automatically advance to the next round until a **final champion** is crowned.
 
+## Screenshots 🖼️
+![Menu Example](src/screenshots/menu.png)
+![Bracket Example](src/screenshots/bracket.png)
+
 ## Technologies Used 💻
 - React.js
 - JavaScript (ES6+)
 - CSS for styling
 
 **Enjoy creating your own tournaments!**
+
+
